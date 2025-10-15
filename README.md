@@ -1,5 +1,3 @@
-[lukesookyloo.html](https://github.com/user-attachments/files/22916872/lukesookyloo.html)
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
