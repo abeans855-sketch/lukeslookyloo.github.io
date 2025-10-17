@@ -103,7 +103,7 @@
           image.src = "youtube_qr.png";
           textRing.style.display = "none";
         } else {
-          image.src = "your-image.jpg";
+          image.src = "Luke.jpg";
           textRing.style.display = "block";
         }
         showingQR = !showingQR;
