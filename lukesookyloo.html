@@ -71,7 +71,7 @@
 </head>
 <body>
   <div class="container" onclick="swapImage()">
-    <img id="displayImage" src="your-image.jpg" alt="Click to reveal QR" />
+    <img id="displayImage" src="luke.jpg" alt="Click to reveal QR" />
     <div id="textRing" class="rotating-text"></div>
   </div>
 
@@ -100,7 +100,7 @@
       image.style.opacity = 0;
       setTimeout(() => {
         if (!showingQR) {
-          image.src = "your-qr-code.png";
+          image.src = "youtube_qr.png";
           textRing.style.display = "none";
         } else {
           image.src = "your-image.jpg";
